@@ -15,6 +15,7 @@ license = "MIT OR Apache-2.0"
 audio = ["quad-snd"]
 log-rs = ["log"]
 glam-serde = ["glam/serde"]
+quad-ui = []
 default = []
 
 [package.metadata.android]
